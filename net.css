@@ -1,0 +1,121 @@
+.first-section{
+    background-image: url(./TN-fr-20221031-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+width: 100%;
+height: 80vh;
+
+}
+body{
+    margin:0;
+    padding:0;
+}
+svg{
+    width: 170px;
+  fill: red;  
+}
+.lang{
+ display: flex;  
+ flex-direction: row; 
+justify-content: space-between;
+padding:1rem 1rem;
+align-items: center;
+background-color:rgba(2, 0, 0, 0.63);
+
+}
+.french{
+    width: 5.5rem;
+    height: 2rem;
+    background-color:transparent;
+    color:white;
+    border-color:white;
+    margin-right: 15px;
+   
+}
+.ident{
+    width: 5.5rem;
+    height: 2rem;
+    background-color: red;
+    color: white;
+    border: red solid 1px;
+   
+}
+.second{  
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 8rem;
+     color: white;
+    padding: 70px 45px;
+
+}
+h1{
+    font-size: 4rem;   
+}
+
+
+input{
+    width: 600px;
+    height: 50px;
+}
+.one{
+    width: 150px;
+    height: 50px;
+    margin: 0;
+    color:white;
+   background: red;
+   border : red solid 1px;
+}
+
+.TV{
+    width: 50%;
+}
+.second-section{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+  justify-content: space-between;
+ 
+ background :black;
+    }
+    .regarde{  
+  
+        width: 50%;
+           height: 50vh !important;
+        
+            color: white;
+         
+           margin-left: 3rem;
+           display: flex;
+       
+           flex-direction: column;
+           align-items: flex-end;
+        
+          
+       }
+
+.trois{ font-size: 3.4rem;
+
+   
+}
+.quatre{
+    font-size: 1.6rem;
+   
+}
+.cinq{ font-size: 3.4rem;
+    width: 100% ;
+   
+}
+.six{
+    font-size: 1.8rem;
+    width: 100%;
+    height: 100%;
+}
+
+.third-section{
+    display: flex;
+    flex-direction:row-reverse;
+  
+ 
+ background :black;
+width: 100%;
+height: 100%;
+margin:  auto auto;}
